@@ -1,5 +1,5 @@
 {
-    "name": "losthost/simple-ai-agent",
+    "name": "losthost/simple-openai-agent",
     "description": "A very simple to use but powerfull AI-agent class for ChatGPT",
     "type": "library",
     "license": "MIT",
